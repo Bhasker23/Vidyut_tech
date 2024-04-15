@@ -1,0 +1,28 @@
+.navbarDiv {
+  display: flex;
+  justify-content: space-between;
+  height: 60px;
+  padding: 8px;
+  background-color: black;
+  color: white;
+}
+
+.nav {
+  /* border: 1px solid black; */
+  display: flex;
+  width: 70%;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+}
+
+.navLink {
+  color: white;
+  text-decoration: none;
+}
+.nav :hover {
+  text-decoration: underline;
+  text-decoration-color: white;
+  transition: 0.4s;
+  line-height: 50px;
+}
