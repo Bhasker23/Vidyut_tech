@@ -1,10 +1,11 @@
 .media {
-  background-color: #f4f5f7;
-  font-family: "Visby Round CF", sans-serif;
+  background-color: #130d28;
   padding: 2%;
   padding-right: 2%;
   width: 28%;
   border-radius: 35px;
+  border: 1px solid white;
+  color: white;
 }
 
 .media > img {
@@ -16,9 +17,9 @@
 }
 
 .media > div > a {
-  color: #878787;
+  color: white;
   display: flex;
-  width: 90px;
+  width: 95px;
   /* border: 1px solid red; */
   margin-top: 80px;
   justify-content: space-between;

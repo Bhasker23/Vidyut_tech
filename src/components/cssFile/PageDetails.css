@@ -1,16 +1,15 @@
 .pageParent {
   display: flex;
   justify-content: space-evenly;
-  background-color: black;
-  font-family: "Visby Round CF", sans-serif;
+  background-color: #130d28;
   height: 400px;
-  color: #cccccc;
+  color: white;
   padding: 20px;
   margin-top: 10%;
+  border-top: 1px solid #e52a9e;
 }
 
 .address {
-  /* border: 1px solid blue; */
   width: 33%;
   color: #cccccc;
 }
@@ -32,7 +31,6 @@
   width: 70%;
 }
 .pages {
-  /* border: 1px solid yellow; */
   width: 33%;
   text-align: left;
   padding-top: 15px;
